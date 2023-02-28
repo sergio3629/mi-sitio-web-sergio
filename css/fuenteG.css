@@ -17,7 +17,7 @@ font-family:'Cinzel', "sans-serif";
 @font-face {
     font-family: 'Cinzel';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 900;
     src: url('../fonts/cinzel-v19-latin-700.eot'); /* IE9 Compat Modes */
     src: local(''),
          url('../fonts/cinzel-v19-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -30,7 +30,7 @@ font-family:'Cinzel', "sans-serif";
   @font-face {
     font-family: 'Cinzel';
     font-style: normal;
-    font-weight: 800;
+    font-weight: 900;
     src: url('../fonts/cinzel-v19-latin-800.eot'); /* IE9 Compat Modes */
     src: local(''),
          url('../fonts/cinzel-v19-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
